@@ -6,7 +6,7 @@ Este projeto é uma prática dedicada à implementação dos principais padrões
 
 Cada funcionalidade da plataforma é abordada como um serviço independente, promovendo flexibilidade e isolamento de responsabilidades.
 
-###Desenho da solução
+### Desenho da solução
 ![Desenho da solucao ead](imagens/projeto.png)
 
 ## Sobre a API
