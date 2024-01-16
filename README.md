@@ -22,8 +22,9 @@ Funcionando como um ponto de entrada único para a arquitetura.
 
 ## Como executar o projeto
 - Pré-requisitos: Java 11
-- Ter o projeto Service Registry em execução
-- Ter o projeto Config Server em execução
+- Ter os seguinte projetos em execução:
+    - Service Registry
+    - Config Server
 
 ```bash
 # clonar repositório
