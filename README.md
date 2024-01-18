@@ -20,9 +20,6 @@ Cutting`
 ### Desenho da solução
 ![Desenho da solucao ead](imagens/projeto.png)
 
-### Desenho da solução
-![Desenho da solucao ead](imagens/projeto.png)
-
 ## Sobre a API
 Implementação do padrão API Gateway, tem como objetivo gerenciar e direcionar as solicitações de entrada para os microservices subjacentes. 
 Funcionando como um ponto de entrada único para a arquitetura.
